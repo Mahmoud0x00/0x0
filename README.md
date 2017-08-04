@@ -17,5 +17,9 @@ Steps of Installing
 + paste the zip file in Tools Folder 
 + then extract it 
 
+Notes :
+--------
+
+When you enter the Target write it without WWW (e.g google.com not www.google.com ) because Sublist3r will scan for subdomains of www.google.com not google.com 
 
 Thanks
