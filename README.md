@@ -10,5 +10,12 @@ Description
 
 Soon I will put extra features for making it more effective , If You have Suggestions which you would like to see in the script Just DM Me on [Twitter](https://twitter.com/Mahmoud0x00) , and i will do my best to add your suggestions to my Script
 
+Steps of Installing 
+---------------------
++ Go to the Desktop , Create two folders (Tools , Targets) ( don't ignore captial T) 
++ Then Download [Sublist3r](https://github.com/aboul3la/Sublist3r)
++ paste the zip file in Tools Folder 
++ then extract it 
+
 
 Thanks
