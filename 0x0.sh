@@ -31,7 +31,7 @@ else
 fi
 
 mkdir -p ~/Desktop/Targets/$Target
-cd ~/Desktop/Tools/sub > /dev/null 2>&1
+cd ~/Desktop/Tools/Sublist3r-master > /dev/null 2>&1
 echo '[*] the script right now getting the subdomains'
 python sublist3r.py -d $Target -o ~/Desktop/Targets/$Target/subs.txt > /dev/null
 echo '[*] Well we have got the subdomains of the Target , Time to check them one by one :D'
